@@ -4,7 +4,7 @@
 
   Frontend will be base on React + TS framework, to connected backend and statemangment at application RTK, with createApi implementation. 
 
-###!Important!###
+###Important###
 I still create frontend for this app.
 
 
